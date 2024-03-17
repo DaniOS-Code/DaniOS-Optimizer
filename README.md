@@ -1,4 +1,3 @@
-<div style="width: 50%;">
 <div align="center">
 <img src="./IMG/Computer speed.png">
 </div>
@@ -14,5 +13,4 @@
 
 <div align="center">
 <img src="./IMG/Folder.png" width="80%">
-</div>
 </div>
