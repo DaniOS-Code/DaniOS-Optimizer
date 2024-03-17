@@ -2,7 +2,7 @@
 <img src="./IMG/Computer speed.png">
 </div>
 
-# <div align="center">Hello, I'm Daniel and this is my compilation to optimize the Windows operating system (later there will be one for macOS)</div>
+# <div align="center">Hi, I'm Daniel and this is my compilation for optimizing Windows operating system (later there will be one for macOS).</div>
 
 [comment]: <> (Optimizer File v1.0.0 [Feb/12/2024] )
 - First, you need to download the [**Optimizer File**](./DaniOS-Optimizer.zip)
