@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./IMG/Computer speed.png">
+<img src="./IMG/Computer speed.png" width="50%">
 </div>
 
 # <div align="center">Hello, I'm Daniel and this is my compilation to optimize the Windows operating system (later there will be one for macOS)</div>
