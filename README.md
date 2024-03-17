@@ -1,4 +1,4 @@
-<div align="center" width="80%">
+<div align="center">
 <img src="./IMG/Computer speed.png">
 </div>
 
